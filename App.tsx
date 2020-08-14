@@ -13,7 +13,7 @@ export default function App() {
       <Text>2. Ūdens uzņemšana 07:05 (ieplānots) 07:04 (izdarītsg);</Text>
       <Text>3. Datora ieslēgšana, piebīdīšana 07:10 (ieplānots) 07:11 (izdarīts);</Text>
       <Text>4. Tējas dzeršana 07:15 (ieplānots) Artis: "Mija, es negribu tēju".  ??:?? (nav izdarīts, nav obligāti);</Text>
-      <Text>5. Pozicionēšana no muguras uz labo sānu 07:45 (ieplānots) 07:50 (izdarīts);</Text>
+      <Text>5. Pnnnnozicionēšana no muguras uz labo sānu 07:45 (ieplānots) 07:50 (izdarīts);</Text>
       <Text>6. Brokastis 08:00 (ieplānots) Artis: "Negribu". ??:?? (nav izdarīts, pierakstīts kā atgādinājums 08:30);</Text>
       <StatusBar style="auto" />
     </View>
